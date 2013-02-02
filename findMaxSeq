@@ -1,3 +1,9 @@
+/*
+Write a program that finds the maximal sequence of equal elements in an array.
+example: {2, 1, 1, 2, 3, 3, 2, 2, 2, 1} -> {2, 2, ,2}
+*/
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;

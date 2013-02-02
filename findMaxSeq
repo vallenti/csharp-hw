@@ -9,7 +9,7 @@ namespace FindMaxSequence
     {
         static void Main()
         {
-            long[] array = {1,2,3,1,1,5,5,5,5,4};
+            int[] array = {1,2,3,1,1,5,5,5,5,4};
             int start = 0;
             int len = 1;
             int bestStart = start;
